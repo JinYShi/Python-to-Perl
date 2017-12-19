@@ -1,0 +1,17 @@
+fffffoooorrrrr     for line in sys.stdin:
+line---
+sys.stdin---
+#!/usr/bin/perl -w
+
+
+
+$lines = [];
+foreach $line  {
+    lines.append(line)
+}
+    
+$i = $len ) -  $lines;
+while ($i >= 0) {
+    print lines[i] end='';
+    $i = $i  -  1;
+}

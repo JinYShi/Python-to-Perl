@@ -1,0 +1,12 @@
+#!/usr/bin/python3
+#this is a comment
+import sys
+#this is a comment
+x = 1
+while x < 10:
+    y = 1
+    while y <= x:
+        sys.stdout.write("*")
+        y = y + 1
+    print()
+    x = x + 1

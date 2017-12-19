@@ -1,0 +1,21 @@
+22/09/2017 start at subset0 one and work on the parse_print function
+
+23/09/2017 update the helper function for print and parse_scalar.
+
+25/09/2017 start at subset 2 and work on parse_if, update some helper funtion for print and parse_scalar
+
+27/09/2017 finish subset 2, update more on print and if
+
+28/09/2017 start at subset 3 and work on parse_while function
+
+29/09/2017 continues on subset 3, update parse_while and create parse_for
+
+30/09/2017 finish the subset 3 and start at subset4. Fixed some pecial cases for parse_for
+
+01/10/2017 finish the subset 4, fix the problem with stdin.readline()
+
+02/10/2017 work on subset 5 with handling the regex and special case for len()
+
+03/10/2017 handle some edge cases
+
+04/01/2017 work on demo and test
